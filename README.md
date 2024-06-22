@@ -4,7 +4,7 @@
 - 🖥 I like to believe that I'm a Software developer with bold ideas.
 - 🚀 Passionate about working and discovering new technologies.
 - 🤖 Currently working with AI.
-- 👩‍💻 Gosto um pouco mais do backend mas também trabalho fazendo frontend
+- 👩‍💻 I like the backend a bit more, but I also work on the frontend.
 - 🔍 You can find me on [![LinkedIn][3.2]][3].
 
 

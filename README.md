@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Thiago Gonçalves and I'm a software developer engineer. I'm from Brazil, currently living in Rio de Janeiro. You can find me on [![LinkedIn](https://www.linkedin.com/in/thiago-pereira-goncalves/).
+My name is Thiago Gonçalves and I'm a software developer engineer. I'm from Brazil, currently living in Rio de Janeiro. You can find me on [![LinkedIn][3.2]][3](https://www.linkedin.com/in/thiago-pereira-goncalves/).
 
 ## &#x1f4c8; GitHub Stats
 

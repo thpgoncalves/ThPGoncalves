@@ -3,7 +3,7 @@
 - 🙋‍♂️ My name is Thiago Gonçalves, I'm from Brazil, currently living in Rio de Janeiro.
 - 🖥 I like to believe that I'm a Software developer with bold ideas.
 - 🚀 Passionate about working and discovering new technologies.
-- 🤖 Currently working with AI at @G2i.
+- 🤖 Currently working with AI.
 - 👩‍💻 Gosto um pouco mais do backend mas também trabalho fazendo frontend
 - 🔍 You can find me on [![LinkedIn][3.2]][3].
 

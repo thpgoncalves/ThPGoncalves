@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🙋‍♂️ Hi! I'm Thiago Gonçalves from Brazil, currently living in Rio de Janeiro.
+- 🙋‍♂️ Hi! I'm Thiago Gonçalves from Brazil, currently living in São Paulo.
 - 🖥 I like to think of myself as a software developer with bold ideas.
 - 🚀 Passionate about exploring and working with new technologies.
 - 🤖 Currently working with AI.

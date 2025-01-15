@@ -1,10 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🙋‍♂️ Hi! I'm Thiago Gonçalves from Brazil, currently living in São Paulo.
-- 🖥 I like to think of myself as a software developer with bold ideas.
+- 🖥 I like to think of myself as a data/software developer with bold ideas.
 - 🚀 Passionate about exploring and working with new technologies.
-- 🤖 Currently working with AI.
-- 👩‍💻 I like the backend a bit more, but I also work on the frontend.
+- 📈 Currently working as a Data Engineer in an industry.
 - 🔍 You can find me on [![LinkedIn][3.2]][3].
 
 

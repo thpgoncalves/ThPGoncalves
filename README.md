@@ -4,11 +4,7 @@
 - 🖥 I like to think of myself as a data/software developer with bold ideas.
 - 🚀 Passionate about exploring and working with new technologies.
 - 📈 Currently working as a Data Engineer in an industry.
-- 🔍 You can find me on [![LinkedIn][3.2]][3].
-
-
-[3.2]: [https://raw.githubusercontent.com/thpgoncalves/ThPGoncalves/main/icons8-linkedin-48.png]
-[3]: https://www.linkedin.com/in/thiago-pereira-goncalves/
+- 🔍 You can find me on [![LinkedIn](https://raw.githubusercontent.com/thpgoncalves/ThPGoncalves/main/icons8-linkedin-25.png)](https://www.linkedin.com/in/thiago-pereira-goncalves/).
 
 ## &#x1f4c8; GitHub Stats
 

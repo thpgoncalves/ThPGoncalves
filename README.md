@@ -7,7 +7,7 @@
 - 🔍 You can find me on [![LinkedIn][3.2]][3].
 
 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[3.2]: [https://raw.githubusercontent.com/thpgoncalves/thpgoncalves/main/icons8-linkedin-48.png]
 [3]: https://www.linkedin.com/in/thiago-pereira-goncalves/
 
 ## &#x1f4c8; GitHub Stats
